@@ -16,8 +16,8 @@ stability_api = client.StabilityInference(
     key=os.environ['STABILITY_KEY'], # API Key reference.
     verbose=True, # Print debug messages.
     # Set the engine to use for generation. For SD 2.0 use "stable-diffusion-v2-0".
-    engine="stable-diffusion-768-v2-1"
-    #engine="stable-diffusion-v1-5", 
+    #engine="stable-diffusion-768-v2-1"
+    engine="stable-diffusion-v1-5", 
     )
 
 def generate(_prompt, _img):
@@ -52,6 +52,6 @@ imageDir = Path.cwd() / "output"
 imageDir.mkdir(parents=True, exist_ok=True)
 
 
-img = Image.open("code/images/kinmen.png")
+img = Image.open("code/images/border.png")
 for i in range(5):
-    generate("",img).save(imageDir / ("output_new_"+str(i)+".png"))
+    generate("",img).save(imageDir / ("border_output_new_"+str(i)+".png"))
