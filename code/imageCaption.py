@@ -1,5 +1,7 @@
 import transformers 
 from PIL import Image
+import requests 
+
 #device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 pipe = transformers.pipeline("image-to-text", model="nlpconnect/vit-gpt2-image-captioning")
 
