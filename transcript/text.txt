@@ -1,0 +1,43 @@
+"0": "A digital portrait of Lin Moniang, also known as Mazu, the goddess who protects seafarers. She is depicted in a serene and mythical setting. The style is highly detailed and intricate, with a smooth finish and a mythical theme. It would be perfect for a cultural museum or a historical-themed artwork.",
+
+"30": "A digital illustration of the humble origins of Lin Moniang's parents, a childless couple living a simple life as fishermen on a small boat in the sea. The style is highly detailed and intricate, with a smooth finish and a realistic theme. It would be perfect for a children's book or a historical-themed artwork.",
+
+"80": "A digital illustration of the type of fishing Lin Moniang's parents did, catching shells and clams in the sea. The style is highly detailed and intricate, with a smooth finish and a realistic theme. It would be perfect for a children's book or a historical-themed artwork.",
+
+"110": "A digital illustration of Lin Moniang's parents catching a large fish in the sea. The style is highly detailed and intricate, with a smooth finish and a realistic theme. It would be perfect for a children's book or a historical-themed artwork.",
+
+"130": "A highly detailed digital painting of a fisherman holding a large catch of clams and shells, inspired by the humble origins of Mazu's parents. The style is realistic and intricate, with a smooth finish and a seafood-themed color palette. It would be perfect for a seafood restaurant or a historical-themed artwork.",
+
+"170": "A digital illustration of a fisherman receiving a blessing from Guanyin, the goddess of compassion, in exchange for a catch of large shellfish. The style is highly detailed and intricate, with a smooth finish and a mythical theme. It would be perfect for a cultural museum or a historical-themed artwork.",
+
+"200": "A digital illustration of a couple praying to the goddess Guanyin for a child. The style is highly detailed and intricate, with a smooth finish and a realistic theme. It would be perfect for a religious or spiritual-themed artwork or a fertility clinic advertisement.",
+
+"250": "A digital painting of Lin Moniang, the goddess bestowed upon the couple by Guanyin, in a beautiful and tranquil setting. The style is highly detailed and intricate, with a smooth finish and a mythical theme. It would be perfect for a religious or spiritual-themed artwork or a cultural museum exhibit.",
+
+"350": "A digital illustration of the childhood of Lin Moniang, showing her humble origins and her destiny to become a legendary goddess. The style is highly detailed and intricate, with a smooth finish and a mythical theme. It would be perfect for a children's book or a cultural museum exhibit.",
+
+"450": "A digital illustration of the ocean waves, inspired by the conversation about sea creatures and fishing. The style is intricate and detailed, with a realistic depiction of the movement and colors of the waves. It would be perfect for a beach-themed artwork or a marine biology exhibit.",
+
+"490": "A digital portrait of a Chinese celebrity named Tao Liu, mentioned in the conversation. The style is highly detailed and realistic, with a focus on capturing the subject's unique features and expressions. It would be perfect for a celebrity fan art or a cultural museum exhibit.",
+
+"550": "A digital illustration of Lin Moniang, the legendary goddess who protects seafarers, depicted in a serene and mythical setting. The style is highly detailed and intricate, with a smooth finish and a mythical theme. It would be perfect for a cultural museum or a historical-themed artwork.",
+
+"600": "A digital illustration of a boat struggling in a stormy sea, with the wind and waves creating chaos all around. The style is highly detailed and intricate, with a realistic theme and a sense of danger and adventure. It would be perfect for a historical-themed artwork or a book cover.",
+
+"650": "A digital portrait of a group of fishermen battling against a raging storm on the open sea. The style is highly detailed and intricate, with a realistic theme and a sense of danger and bravery. It would be perfect for a historical-themed artwork or a book cover.",
+
+"710": "A digital portrait of Lin Moniang's mother, depicted with a worried expression as she awakens her daughter from a dream of rescuing her family from a stormy sea. The style is highly detailed and intricate, with a smooth finish and a realistic theme. It would be perfect for a historical-themed artwork or a cultural museum exhibit.",
+
+"750": "A digital portrait of Lin Moniang's father or brother, depicted with a heroic expression as they struggle to survive in a stormy sea. The style is highly detailed and intricate, with a realistic theme and a sense of danger. It would be perfect for a historical-themed artwork or a cultural museum exhibit.",
+
+"860": "A digital illustration of Lin Moniang rescuing fishermen at sea. The style is highly detailed and intricate, with a smooth finish and a realistic theme. It would be perfect for a cultural museum or a historical-themed artwork.",
+
+"900": "A digital portrait of Lin Moniang, also known as Mazu, observing the skies for signs of danger before fishermen go out to sea. The style is highly detailed and intricate, with a smooth finish and a mythical theme. It would be perfect for a cultural museum or a historical-themed artwork.",
+
+"1000": "A digital illustration of fishermen on a boat, listening attentively to Lin Moniang as she warns them of the dangers of the sea. The style is highly detailed and intricate, with a realistic theme and a smooth finish. It would be perfect for a cultural museum or a historical-themed artwork.",
+
+"1050": "A digital painting of Lin Moniang saving a group of fishermen from a raging storm at sea. The style is highly detailed and realistic, with a dramatic and dynamic composition. It would be perfect for a historical-themed artwork or an art museum exhibit.",
+
+"1070": "A digital illustration of the legend of Lin Moniang warning fishermen of dangerous weather conditions at sea. The style is highly detailed and intricate, with a smooth finish and a realistic theme. It would be perfect for a children's book or a cultural museum exhibit.",
+
+"1100": "A digital portrait of Lin Moniang, the legendary goddess who protects seafarers, depicted in a powerful and dynamic pose. The style is highly detailed and intricate, with a smooth finish and a mythical theme. It would be perfect for a cultural museum or a historical-themed artwork."

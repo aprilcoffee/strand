@@ -2,7 +2,7 @@
 .DS_store
 
 /documents
-
+*/witze
 # Ignore all python notebook checkpoint files
 .ipynb_checkpoints
 
